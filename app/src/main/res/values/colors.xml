@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Paleta de la aplicación (usar estos colores en todas las pantallas) -->
+    <color name="azul_sanitario">#FF0B6E99</color>
+    <color name="azul_sanitario_oscuro">#FF06506F</color>
+    <color name="azul_claro">#FFE3F2F8</color>
+    <color name="verde_salud">#FF2E9E6B</color>
+    <color name="rojo_cruz">#FFD64545</color>
+    <color name="fondo_app">#FFF7FAFC</color>
+    <color name="texto_principal">#FF1F2933</color>
+    <color name="texto_secundario">#FF5F6B7A</color>
+</resources>

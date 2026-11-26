@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Gestión Sanitaria</string>
+
+    <!-- Home -->
+    <string name="home_titulo">Gestión Sanitaria</string>
+    <string name="home_subtitulo">Gestión de enfermeros del centro</string>
+    <string name="home_logo_descripcion">Logo de la aplicación</string>
+    <string name="home_boton_login">Iniciar sesión</string>
+    <string name="home_boton_listar">Listar enfermeros</string>
+    <string name="home_boton_buscar">Buscar enfermeros</string>
+    <string name="home_mostrar_info">Mostrar información</string>
+    <string name="home_ocultar_info">Ocultar información</string>
+    <string name="home_info">Esta aplicación permite consultar los enfermeros registrados, buscarlos por nombre y validar el acceso de cada enfermero.</string>
+
+    <!-- Común -->
+    <string name="volver">Volver</string>
+    <string name="pantalla_pendiente">Pantalla pendiente de desarrollar</string>
+</resources>
