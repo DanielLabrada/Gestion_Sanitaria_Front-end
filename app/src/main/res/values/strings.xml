@@ -12,6 +12,18 @@
     <string name="home_ocultar_info">Ocultar información</string>
     <string name="home_info">Esta aplicación permite consultar los enfermeros registrados, buscarlos por nombre y validar el acceso de cada enfermero.</string>
 
+    <!-- Login -->
+    <string name="login_titulo">Acceso de enfermeros</string>
+    <string name="login_subtitulo">Introduce tu usuario y contraseña</string>
+    <string name="login_logo_descripcion">Logo de la pantalla de login</string>
+    <string name="login_usuario">Usuario</string>
+    <string name="login_password">Contraseña</string>
+    <string name="login_mostrar_password">Mostrar contraseña</string>
+    <string name="login_ocultar_password">Ocultar contraseña</string>
+    <string name="login_boton_entrar">Entrar</string>
+    <string name="login_error_vacio">Rellena el usuario y la contraseña</string>
+    <string name="login_correcto">¡Bienvenido/a, %1$s!</string>
+
     <!-- Común -->
     <string name="volver">Volver</string>
     <string name="pantalla_pendiente">Pantalla pendiente de desarrollar</string>
